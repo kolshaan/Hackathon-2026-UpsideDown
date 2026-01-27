@@ -1,0 +1,11 @@
+SKU,Name,Category,Weight_Kg,COGS,Selling_Price,Factory_Lead_Time_Days,Static_Safety_Stock
+ZEN-101,Dark Choco Truffles,Chocolate,0.8,25.0,55.0,7,100
+ZEN-201,Spicy Jalapeno Chips,Snacks,6.5,10.0,16.0,21,200
+ZEN-102,Sea Salt Caramel Bar,Chocolate,1.2,18.0,32.0,14,80
+ZEN-301,Gummy Bears Case,Candy,2.5,14.0,24.0,14,120
+ZEN-401,Protein Bars Box,Health,1.0,22.0,45.0,10,60
+ZEN-900,Generic Snack 0,General,3.9,28.01,42.02,14,50
+ZEN-901,Generic Snack 1,General,3.6,21.16,31.74,14,50
+ZEN-902,Generic Snack 2,General,3.5,24.81,37.21,14,50
+ZEN-903,Generic Snack 3,General,3.9,28.65,42.97,14,50
+ZEN-904,Generic Snack 4,General,3.4,10.05,15.08,14,50

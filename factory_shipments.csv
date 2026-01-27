@@ -1,0 +1,3 @@
+PO_Number,SKU_ID,Destination_Warehouse,Qty_Ordered,Expected_Arrival_Date,Status
+PO-FACTORY-001,ZEN-301,W07_Seattle,500,2026-01-28,In-Transit
+PO-FACTORY-002,ZEN-101,W01_New_Jersey,1000,2026-02-09,Production
